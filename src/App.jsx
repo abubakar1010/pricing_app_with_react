@@ -2,6 +2,7 @@
 import './App.css'
 import { Button } from 'flowbite-react';
 import NavBar from './components/NavBar/NavBar';
+import PriceOptions from './components/PriceOptions/PriceOptions';
 // import Form from './components/Form/Form';
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
       <div className=' flex justify-center my-20 '>
         <Button>Click me</Button>
       </div>
+
+      <PriceOptions />
 
     </section>
     {/* <Form /> */}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "membership_type": "Silver",
+        "description": "Access to gym facilities only during off-peak hours (e.g., weekdays before 5 pm)",
+        "price": "$30 per month",
+        "features": [
+            "Access during off-peak hours",
+            "Access during off-peak hours",
+            "Access during off-peak hours",
+            "Access during off-peak hours"
+        ]
+    },
+    {
+        "id": 2,
+        "membership_type": "Gold",
+        "description": "Access to gym facilities during all operating hours with no restrictions",
+        "price": "$50 per month",
+        "features": [
+            "Access during all operating hours",
+            "Access during all operating hours",
+            "Access during all operating hours",
+            "Access during all operating hours",
+            "Access during all operating hours"
+        ]
+    },
+    {
+        "id": 3,
+        "membership_type": "Platinum",
+        "description": "Access to gym facilities at all times, plus additional perks such as sauna, steam room, and personal training sessions",
+        "price": "$80 per month",
+        "features": [
+            "Access at all times",
+            "Sauna and steam room access",
+            "Personal training sessions"
+        ]
+    },
+    {
+        "id": 4,
+        "membership_type": "Diamond",
+        "description": "Exclusive access to gym facilities at all times, premium amenities including a dedicated lounge, nutrition counseling, and priority scheduling for classes",
+        "price": "$150 per month",
+        "features": [
+            "Access at all times",
+            "Exclusive lounge access",
+            "Nutrition counseling",
+            "Priority class scheduling"
+        ]
+    },
+    {
+        "id": 5,
+        "membership_type": "Family",
+        "description": "Membership for families with access to gym facilities for all family members",
+        "price": "$120 per month",
+        "features": [
+            "Access for all family members",
+            "Access for all family members",
+            "Access for all family members"
+        ]
+    },
+    {
+        "id": 6,
+        "membership_type": "Student",
+        "description": "Discounted membership for students with valid student ID",
+        "price": "$25 per month",
+        "features": [
+            "Valid student ID required",
+            "Valid student ID required",
+            "Valid student ID required",
+            "Valid student ID required",
+            "Valid student ID required"
+        ]
+    }
+]
